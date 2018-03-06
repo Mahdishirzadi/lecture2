@@ -1,13 +1,13 @@
 ####################################
 # following variables are the same #
 ####################################
-# str1=" salam "
-# str2='salam'
+# str1=" welcome "
+# str2='glad'
 
 ######################
 ## concat two string #
 ######################
-# name='mohammad'
+# name='mahdi'
 # greeting= str1+name
 # print(greeting)
 #
