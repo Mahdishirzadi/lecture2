@@ -5,9 +5,9 @@
 #### assign a value to a variable######
 #######################################
 
-# name = value
-name = "Ali"
-year = 1396
+# name = amount
+name = "mahdi"
+year = 2018
 
 ###########################################
 ###### accessing the value inside variable#
